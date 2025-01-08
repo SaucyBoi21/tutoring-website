@@ -8,13 +8,13 @@ export default function Navbar() {
         <Link className="route" href="/">
           home
         </Link>
-        <Link className="route" href="/about">
+        <Link className="route" href="../pages/about">
           about
         </Link>
-        <Link className="route" href="/rates">
+        <Link className="route" href="../pages/rates">
           rates
         </Link>
-        <Link className="route" href="/testimonials">
+        <Link className="route" href="../pages/testimonials">
           testimonials
         </Link>
       </div>
