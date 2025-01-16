@@ -13,9 +13,6 @@ export default function About() {
             <div className="description">
                 <p>I'm a Computer Engineering student at Georgia Tech with over 5 years of tutoring experience.</p>
             </div>
-            <div className="saahas_img">
-                <img src="" alt="" />
-            </div>
             <div className="subjects">
                 <h3>Subjects Offered: </h3>
                 <Subject subjectName="K-8 Math" />
